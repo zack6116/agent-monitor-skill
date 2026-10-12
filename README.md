@@ -74,7 +74,7 @@ WorkBuddy 的安装方式取决于当前版本；检测器可以读取其本地�
 ## 联系与交流
 
 - 个人微信：`zack6116`
-- X：[@kaiz_amm](https://x.com/kaiz_amm)
+- X：[@zack6116](https://x.com/zack6116)
 
 ### 个人微信
 
